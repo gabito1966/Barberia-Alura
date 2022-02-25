@@ -58,12 +58,12 @@ nav a:hover {
     border-color: #DC143C; 
 }
 
-.productos li:active {
-    border-color: #6A5ACD;
+.productos li:active h2 {
+    border-color: #6C3483;
 }
 
 .productos h2 {
-    font-size: 32px;
+    font-size: 30px;
     font-weight: bold;
 }
 
